@@ -1,0 +1,301 @@
+Transaction_ID,Date,Time,ATM_ID,Location,Transaction_Type,Amount,Status
+T0001,2026-06-15,21:12,ATM104,Chennai,Withdrawal,5000,Success
+T0002,2026-06-18,02:12,ATM102,Salem,Withdrawal,5000,Success
+T0003,2026-06-10,22:25,ATM109,Salem,Withdrawal,500,Success
+T0004,2026-06-01,22:29,ATM109,Trichy,Deposit,5000,Success
+T0005,2026-06-06,08:23,ATM101,Chennai,Withdrawal,1500,Success
+T0006,2026-06-17,05:16,ATM106,Madurai,Withdrawal,1500,Success
+T0007,2026-06-03,10:39,ATM110,Coimbatore,Withdrawal,1500,Success
+T0008,2026-06-19,16:47,ATM107,Madurai,Withdrawal,2000,Success
+T0009,2026-06-13,21:29,ATM106,Salem,Withdrawal,5000,Success
+T0010,2026-06-05,17:00,ATM105,Madurai,Deposit,500,Success
+T0011,2026-06-20,19:07,ATM108,Coimbatore,Withdrawal,500,Success
+T0012,2026-06-05,00:49,ATM102,Salem,Withdrawal,1000,Success
+T0013,2026-06-15,18:46,ATM108,Trichy,Withdrawal,5000,Success
+T0014,2026-06-07,11:25,ATM109,Chennai,Mini Statement,0,Success
+T0015,2026-06-16,21:53,ATM104,Madurai,Withdrawal,10000,Success
+T0016,2026-06-19,15:39,ATM110,Coimbatore,Withdrawal,1500,Success
+T0017,2026-06-06,04:07,ATM108,Chennai,Deposit,2000,Success
+T0018,2026-06-07,08:39,ATM105,Salem,Withdrawal,5000,Success
+T0019,2026-06-11,01:58,ATM104,Chennai,Balance Inquiry,0,Success
+T0020,2026-06-12,22:16,ATM102,Chennai,Withdrawal,10000,Success
+T0021,2026-06-15,14:40,ATM102,Trichy,Withdrawal,5000,Success
+T0022,2026-06-10,00:24,ATM109,Madurai,Deposit,2000,Success
+T0023,2026-06-16,19:31,ATM105,Coimbatore,Deposit,5000,Success
+T0024,2026-06-03,20:55,ATM105,Salem,Withdrawal,1000,Success
+T0025,2026-06-18,16:07,ATM105,Salem,Withdrawal,500,Success
+T0026,2026-06-15,04:34,ATM109,Salem,Withdrawal,1500,Success
+T0027,2026-06-01,08:18,ATM106,Coimbatore,Deposit,2000,Success
+T0028,2026-06-06,18:46,ATM102,Trichy,Withdrawal,3000,Failed
+T0029,2026-06-19,21:39,ATM103,Chennai,Withdrawal,10000,Success
+T0030,2026-06-16,08:18,ATM109,Salem,Withdrawal,3000,Success
+T0031,2026-06-10,23:05,ATM104,Coimbatore,Mini Statement,0,Success
+T0032,2026-06-10,09:54,ATM108,Salem,Mini Statement,0,Success
+T0033,2026-06-11,14:34,ATM101,Salem,Withdrawal,1000,Success
+T0034,2026-06-13,22:30,ATM101,Chennai,Withdrawal,1000,Success
+T0035,2026-06-02,20:48,ATM102,Salem,Mini Statement,0,Success
+T0036,2026-06-06,17:58,ATM103,Salem,Withdrawal,2000,Success
+T0037,2026-06-14,10:41,ATM107,Chennai,Withdrawal,10000,Success
+T0038,2026-06-03,11:30,ATM107,Trichy,Withdrawal,2000,Success
+T0039,2026-06-20,23:46,ATM102,Madurai,Deposit,5000,Success
+T0040,2026-06-10,11:53,ATM104,Chennai,Deposit,10000,Success
+T0041,2026-06-05,15:52,ATM105,Trichy,Withdrawal,1000,Success
+T0042,2026-06-07,00:25,ATM109,Madurai,Balance Inquiry,0,Success
+T0043,2026-06-02,11:37,ATM102,Chennai,Deposit,3000,Success
+T0044,2026-06-05,02:49,ATM107,Madurai,Withdrawal,2000,Success
+T0045,2026-06-05,01:54,ATM108,Coimbatore,Withdrawal,2000,Success
+T0046,2026-06-10,23:01,ATM109,Trichy,Deposit,5000,Failed
+T0047,2026-06-04,20:32,ATM110,Salem,Withdrawal,1000,Failed
+T0048,2026-06-02,17:17,ATM108,Salem,Deposit,500,Success
+T0049,2026-06-20,17:41,ATM102,Chennai,Withdrawal,500,Failed
+T0050,2026-06-02,21:25,ATM107,Madurai,Deposit,5000,Success
+T0051,2026-06-14,07:07,ATM102,Trichy,Withdrawal,3000,Success
+T0052,2026-06-16,07:00,ATM105,Chennai,Deposit,3000,Success
+T0053,2026-06-16,13:45,ATM103,Coimbatore,Deposit,1000,Success
+T0054,2026-06-11,17:42,ATM101,Trichy,Withdrawal,10000,Success
+T0055,2026-06-15,11:14,ATM102,Salem,Mini Statement,0,Failed
+T0056,2026-06-06,04:24,ATM102,Chennai,Withdrawal,1000,Success
+T0057,2026-06-09,17:48,ATM105,Salem,Withdrawal,2000,Success
+T0058,2026-06-19,16:47,ATM109,Coimbatore,Deposit,500,Success
+T0059,2026-06-16,10:17,ATM102,Salem,Withdrawal,1000,Success
+T0060,2026-06-04,20:53,ATM106,Chennai,Withdrawal,3000,Success
+T0061,2026-06-16,23:27,ATM105,Madurai,Deposit,1500,Success
+T0062,2026-06-03,10:24,ATM101,Coimbatore,Deposit,10000,Success
+T0063,2026-06-18,21:08,ATM108,Salem,Withdrawal,1500,Success
+T0064,2026-06-17,09:23,ATM103,Salem,Withdrawal,500,Success
+T0065,2026-06-02,03:40,ATM103,Trichy,Balance Inquiry,0,Success
+T0066,2026-06-04,05:36,ATM101,Coimbatore,Withdrawal,1500,Success
+T0067,2026-06-06,02:43,ATM109,Trichy,Deposit,5000,Success
+T0068,2026-06-15,10:57,ATM103,Trichy,Deposit,1000,Success
+T0069,2026-06-01,21:32,ATM107,Chennai,Withdrawal,1500,Success
+T0070,2026-06-07,09:42,ATM101,Trichy,Withdrawal,5000,Success
+T0071,2026-06-06,09:28,ATM104,Chennai,Withdrawal,2000,Success
+T0072,2026-06-01,20:55,ATM102,Coimbatore,Deposit,2000,Success
+T0073,2026-06-09,07:46,ATM109,Coimbatore,Deposit,2000,Success
+T0074,2026-06-01,23:04,ATM105,Madurai,Withdrawal,1500,Success
+T0075,2026-06-03,19:12,ATM106,Trichy,Deposit,1500,Success
+T0076,2026-06-15,03:04,ATM110,Chennai,Mini Statement,0,Success
+T0077,2026-06-07,03:06,ATM109,Chennai,Withdrawal,2000,Success
+T0078,2026-06-09,14:54,ATM110,Coimbatore,Withdrawal,5000,Success
+T0079,2026-06-16,10:17,ATM105,Salem,Balance Inquiry,0,Success
+T0080,2026-06-08,08:54,ATM105,Salem,Deposit,1500,Success
+T0081,2026-06-04,05:30,ATM103,Salem,Withdrawal,5000,Failed
+T0082,2026-06-14,06:48,ATM105,Coimbatore,Withdrawal,3000,Success
+T0083,2026-06-06,02:47,ATM106,Trichy,Withdrawal,3000,Success
+T0084,2026-06-11,09:16,ATM103,Madurai,Withdrawal,1000,Success
+T0085,2026-06-07,18:59,ATM102,Chennai,Withdrawal,5000,Success
+T0086,2026-06-16,15:26,ATM101,Madurai,Withdrawal,10000,Success
+T0087,2026-06-06,21:43,ATM102,Trichy,Mini Statement,0,Success
+T0088,2026-06-10,18:20,ATM107,Trichy,Balance Inquiry,0,Success
+T0089,2026-06-10,10:15,ATM102,Trichy,Withdrawal,5000,Success
+T0090,2026-06-06,07:30,ATM101,Salem,Withdrawal,5000,Success
+T0091,2026-06-07,00:05,ATM103,Trichy,Mini Statement,0,Success
+T0092,2026-06-16,12:35,ATM108,Salem,Withdrawal,3000,Success
+T0093,2026-06-19,21:06,ATM109,Trichy,Deposit,3000,Success
+T0094,2026-06-04,22:55,ATM104,Coimbatore,Deposit,2000,Success
+T0095,2026-06-18,18:14,ATM104,Coimbatore,Balance Inquiry,0,Success
+T0096,2026-06-11,08:13,ATM106,Coimbatore,Withdrawal,1500,Success
+T0097,2026-06-13,14:59,ATM103,Chennai,Withdrawal,1000,Success
+T0098,2026-06-02,19:04,ATM107,Madurai,Withdrawal,1500,Success
+T0099,2026-06-06,00:57,ATM110,Madurai,Balance Inquiry,0,Success
+T0100,2026-06-20,19:53,ATM108,Madurai,Balance Inquiry,0,Success
+T0101,2026-06-09,08:06,ATM107,Salem,Withdrawal,2000,Success
+T0102,2026-06-18,08:14,ATM104,Trichy,Deposit,10000,Success
+T0103,2026-06-06,07:50,ATM106,Trichy,Withdrawal,2000,Success
+T0104,2026-06-17,19:29,ATM110,Salem,Withdrawal,2000,Success
+T0105,2026-06-01,22:43,ATM101,Madurai,Mini Statement,0,Success
+T0106,2026-06-15,23:01,ATM101,Coimbatore,Withdrawal,10000,Success
+T0107,2026-06-09,23:02,ATM107,Coimbatore,Withdrawal,2000,Success
+T0108,2026-06-18,10:41,ATM102,Trichy,Mini Statement,0,Success
+T0109,2026-06-01,18:35,ATM106,Chennai,Deposit,500,Failed
+T0110,2026-06-16,03:03,ATM101,Chennai,Withdrawal,5000,Success
+T0111,2026-06-05,20:52,ATM104,Chennai,Balance Inquiry,0,Success
+T0112,2026-06-12,02:37,ATM108,Coimbatore,Deposit,3000,Failed
+T0113,2026-06-18,18:49,ATM102,Chennai,Withdrawal,3000,Success
+T0114,2026-06-08,09:52,ATM110,Trichy,Withdrawal,500,Success
+T0115,2026-06-10,08:37,ATM110,Chennai,Mini Statement,0,Success
+T0116,2026-06-03,15:39,ATM110,Madurai,Deposit,1500,Success
+T0117,2026-06-19,10:50,ATM106,Salem,Mini Statement,0,Success
+T0118,2026-06-11,01:57,ATM106,Madurai,Deposit,500,Success
+T0119,2026-06-20,15:58,ATM106,Trichy,Withdrawal,2000,Success
+T0120,2026-06-17,10:17,ATM105,Salem,Withdrawal,1000,Success
+T0121,2026-06-19,17:23,ATM108,Trichy,Mini Statement,0,Success
+T0122,2026-06-20,02:57,ATM104,Madurai,Deposit,1500,Success
+T0123,2026-06-07,16:19,ATM108,Salem,Balance Inquiry,0,Success
+T0124,2026-06-15,05:19,ATM106,Chennai,Deposit,1500,Success
+T0125,2026-06-12,10:16,ATM105,Salem,Withdrawal,10000,Success
+T0126,2026-06-17,06:56,ATM109,Chennai,Balance Inquiry,0,Success
+T0127,2026-06-03,06:45,ATM104,Trichy,Withdrawal,2000,Success
+T0128,2026-06-16,00:44,ATM102,Coimbatore,Deposit,2000,Success
+T0129,2026-06-06,09:01,ATM110,Coimbatore,Withdrawal,1000,Success
+T0130,2026-06-12,02:27,ATM109,Coimbatore,Deposit,1500,Success
+T0131,2026-06-09,08:08,ATM104,Madurai,Deposit,1500,Success
+T0132,2026-06-17,17:55,ATM103,Chennai,Withdrawal,500,Success
+T0133,2026-06-06,06:10,ATM109,Salem,Deposit,1500,Success
+T0134,2026-06-07,18:33,ATM105,Chennai,Mini Statement,0,Success
+T0135,2026-06-09,13:05,ATM103,Coimbatore,Withdrawal,500,Success
+T0136,2026-06-02,08:51,ATM103,Trichy,Mini Statement,0,Success
+T0137,2026-06-03,16:01,ATM108,Trichy,Balance Inquiry,0,Success
+T0138,2026-06-11,08:33,ATM108,Madurai,Withdrawal,500,Success
+T0139,2026-06-20,00:59,ATM101,Chennai,Withdrawal,2000,Success
+T0140,2026-06-04,17:28,ATM102,Chennai,Balance Inquiry,0,Failed
+T0141,2026-06-04,00:41,ATM110,Chennai,Deposit,2000,Success
+T0142,2026-06-18,23:37,ATM105,Salem,Withdrawal,2000,Success
+T0143,2026-06-11,02:11,ATM102,Chennai,Withdrawal,3000,Success
+T0144,2026-06-15,13:36,ATM104,Chennai,Withdrawal,5000,Success
+T0145,2026-06-13,21:27,ATM110,Trichy,Withdrawal,500,Success
+T0146,2026-06-07,23:03,ATM108,Madurai,Withdrawal,1500,Success
+T0147,2026-06-16,23:24,ATM110,Chennai,Withdrawal,1500,Success
+T0148,2026-06-11,00:10,ATM105,Chennai,Withdrawal,1000,Success
+T0149,2026-06-02,22:59,ATM110,Coimbatore,Withdrawal,10000,Success
+T0150,2026-06-11,07:50,ATM107,Coimbatore,Withdrawal,5000,Success
+T0151,2026-06-12,17:19,ATM101,Trichy,Withdrawal,2000,Success
+T0152,2026-06-18,01:09,ATM104,Salem,Withdrawal,1500,Success
+T0153,2026-06-14,16:38,ATM105,Salem,Mini Statement,0,Failed
+T0154,2026-06-02,05:58,ATM109,Trichy,Balance Inquiry,0,Success
+T0155,2026-06-07,15:54,ATM108,Madurai,Withdrawal,3000,Success
+T0156,2026-06-12,00:41,ATM102,Chennai,Withdrawal,1500,Success
+T0157,2026-06-08,20:07,ATM107,Salem,Withdrawal,2000,Success
+T0158,2026-06-02,04:02,ATM102,Trichy,Withdrawal,1500,Success
+T0159,2026-06-21,00:21,ATM109,Trichy,Withdrawal,500,Success
+T0160,2026-06-10,17:41,ATM108,Trichy,Withdrawal,3000,Success
+T0161,2026-06-18,15:03,ATM105,Trichy,Withdrawal,1500,Success
+T0162,2026-06-17,05:20,ATM110,Chennai,Withdrawal,500,Failed
+T0163,2026-06-17,11:38,ATM107,Madurai,Withdrawal,3000,Success
+T0164,2026-06-06,10:42,ATM108,Madurai,Mini Statement,0,Success
+T0165,2026-06-16,01:44,ATM105,Salem,Balance Inquiry,0,Success
+T0166,2026-06-17,09:14,ATM108,Chennai,Withdrawal,10000,Success
+T0167,2026-06-11,17:27,ATM110,Salem,Deposit,2000,Success
+T0168,2026-06-18,07:34,ATM105,Trichy,Balance Inquiry,0,Success
+T0169,2026-06-09,01:37,ATM101,Coimbatore,Mini Statement,0,Success
+T0170,2026-06-17,20:31,ATM108,Chennai,Withdrawal,3000,Success
+T0171,2026-06-11,11:52,ATM109,Trichy,Withdrawal,1500,Success
+T0172,2026-06-11,16:40,ATM104,Salem,Mini Statement,0,Success
+T0173,2026-06-10,01:09,ATM106,Trichy,Withdrawal,10000,Success
+T0174,2026-06-17,09:08,ATM103,Trichy,Mini Statement,0,Success
+T0175,2026-06-02,04:13,ATM102,Trichy,Withdrawal,3000,Success
+T0176,2026-06-03,14:27,ATM103,Trichy,Withdrawal,2000,Success
+T0177,2026-06-21,03:38,ATM105,Coimbatore,Deposit,1000,Success
+T0178,2026-06-15,12:22,ATM106,Salem,Deposit,5000,Success
+T0179,2026-06-09,23:32,ATM108,Salem,Mini Statement,0,Success
+T0180,2026-06-02,03:36,ATM105,Chennai,Deposit,1000,Success
+T0181,2026-06-18,07:50,ATM102,Trichy,Withdrawal,500,Success
+T0182,2026-06-05,02:51,ATM101,Coimbatore,Deposit,500,Success
+T0183,2026-06-09,11:46,ATM107,Salem,Withdrawal,1000,Success
+T0184,2026-06-16,20:21,ATM102,Salem,Balance Inquiry,0,Success
+T0185,2026-06-21,03:35,ATM110,Chennai,Withdrawal,5000,Success
+T0186,2026-06-06,14:48,ATM101,Trichy,Withdrawal,1500,Success
+T0187,2026-06-07,21:05,ATM106,Salem,Deposit,1000,Success
+T0188,2026-06-08,03:22,ATM108,Coimbatore,Deposit,2000,Success
+T0189,2026-06-05,20:47,ATM102,Chennai,Mini Statement,0,Success
+T0190,2026-06-10,00:16,ATM105,Madurai,Deposit,3000,Success
+T0191,2026-06-20,05:18,ATM101,Salem,Deposit,1500,Success
+T0192,2026-06-18,06:57,ATM104,Salem,Withdrawal,1500,Success
+T0193,2026-06-19,13:57,ATM105,Chennai,Withdrawal,5000,Success
+T0194,2026-06-15,15:06,ATM105,Trichy,Withdrawal,5000,Success
+T0195,2026-06-02,02:13,ATM105,Coimbatore,Deposit,5000,Success
+T0196,2026-06-18,08:13,ATM109,Coimbatore,Withdrawal,1000,Success
+T0197,2026-06-13,09:54,ATM105,Trichy,Withdrawal,1500,Success
+T0198,2026-06-19,16:27,ATM102,Trichy,Withdrawal,10000,Success
+T0199,2026-06-03,01:07,ATM107,Salem,Withdrawal,1000,Success
+T0200,2026-06-09,15:45,ATM109,Madurai,Withdrawal,2000,Success
+T0201,2026-06-11,16:22,ATM110,Trichy,Withdrawal,5000,Success
+T0202,2026-06-20,01:08,ATM104,Trichy,Deposit,1500,Success
+T0203,2026-06-01,21:40,ATM110,Chennai,Deposit,3000,Success
+T0204,2026-06-16,01:42,ATM105,Trichy,Withdrawal,10000,Success
+T0205,2026-06-03,23:43,ATM108,Madurai,Withdrawal,500,Success
+T0206,2026-06-03,13:04,ATM108,Coimbatore,Withdrawal,3000,Success
+T0207,2026-06-16,14:10,ATM109,Trichy,Mini Statement,0,Success
+T0208,2026-06-14,16:45,ATM102,Trichy,Deposit,1000,Success
+T0209,2026-06-15,08:13,ATM106,Chennai,Withdrawal,1500,Success
+T0210,2026-06-11,10:08,ATM102,Coimbatore,Withdrawal,1000,Success
+T0211,2026-06-13,17:21,ATM101,Trichy,Mini Statement,0,Success
+T0212,2026-06-07,14:40,ATM108,Madurai,Withdrawal,500,Failed
+T0213,2026-06-16,09:57,ATM101,Madurai,Withdrawal,5000,Success
+T0214,2026-06-19,05:41,ATM104,Madurai,Withdrawal,1000,Success
+T0215,2026-06-20,05:11,ATM104,Chennai,Balance Inquiry,0,Success
+T0216,2026-06-08,19:26,ATM110,Madurai,Balance Inquiry,0,Success
+T0217,2026-06-07,15:25,ATM103,Salem,Balance Inquiry,0,Success
+T0218,2026-06-07,00:53,ATM101,Chennai,Balance Inquiry,0,Success
+T0219,2026-06-01,16:06,ATM106,Madurai,Withdrawal,10000,Success
+T0220,2026-06-05,07:09,ATM109,Madurai,Withdrawal,1000,Success
+T0221,2026-06-18,07:13,ATM109,Salem,Withdrawal,2000,Success
+T0222,2026-06-03,19:33,ATM101,Salem,Withdrawal,1000,Failed
+T0223,2026-06-08,04:43,ATM108,Trichy,Withdrawal,500,Success
+T0224,2026-06-11,00:48,ATM108,Madurai,Deposit,2000,Success
+T0225,2026-06-03,04:07,ATM105,Salem,Withdrawal,1000,Success
+T0226,2026-06-15,17:44,ATM110,Salem,Deposit,5000,Success
+T0227,2026-06-08,01:03,ATM102,Salem,Withdrawal,3000,Success
+T0228,2026-06-17,17:40,ATM104,Trichy,Balance Inquiry,0,Success
+T0229,2026-06-09,01:06,ATM102,Coimbatore,Balance Inquiry,0,Success
+T0230,2026-06-11,01:04,ATM103,Trichy,Withdrawal,1500,Success
+T0231,2026-06-02,20:39,ATM102,Coimbatore,Withdrawal,500,Success
+T0232,2026-06-19,19:20,ATM109,Salem,Withdrawal,500,Success
+T0233,2026-06-08,20:01,ATM107,Madurai,Deposit,2000,Success
+T0234,2026-06-07,21:05,ATM109,Chennai,Deposit,1500,Success
+T0235,2026-06-04,20:30,ATM106,Salem,Deposit,1000,Success
+T0236,2026-06-09,16:44,ATM107,Salem,Withdrawal,1500,Success
+T0237,2026-06-18,19:07,ATM109,Madurai,Balance Inquiry,0,Success
+T0238,2026-06-15,04:35,ATM105,Madurai,Mini Statement,0,Success
+T0239,2026-06-05,10:31,ATM106,Coimbatore,Withdrawal,10000,Success
+T0240,2026-06-01,11:20,ATM107,Madurai,Withdrawal,1000,Success
+T0241,2026-06-04,13:28,ATM109,Chennai,Deposit,500,Success
+T0242,2026-06-09,21:27,ATM105,Coimbatore,Withdrawal,1500,Success
+T0243,2026-06-19,00:15,ATM101,Chennai,Mini Statement,0,Success
+T0244,2026-06-04,21:58,ATM102,Coimbatore,Balance Inquiry,0,Success
+T0245,2026-06-11,09:59,ATM107,Coimbatore,Deposit,2000,Success
+T0246,2026-06-06,05:43,ATM107,Madurai,Balance Inquiry,0,Success
+T0247,2026-06-07,18:41,ATM105,Madurai,Deposit,3000,Success
+T0248,2026-06-06,08:25,ATM104,Coimbatore,Withdrawal,3000,Success
+T0249,2026-06-06,03:21,ATM105,Coimbatore,Balance Inquiry,0,Success
+T0250,2026-06-04,01:31,ATM103,Trichy,Withdrawal,5000,Success
+T0251,2026-06-13,10:51,ATM106,Madurai,Deposit,3000,Success
+T0252,2026-06-10,08:51,ATM101,Trichy,Balance Inquiry,0,Success
+T0253,2026-06-03,02:31,ATM110,Trichy,Balance Inquiry,0,Success
+T0254,2026-06-17,11:28,ATM101,Coimbatore,Deposit,1500,Success
+T0255,2026-06-05,05:51,ATM106,Madurai,Balance Inquiry,0,Success
+T0256,2026-06-11,06:30,ATM110,Trichy,Balance Inquiry,0,Success
+T0257,2026-06-13,06:09,ATM106,Chennai,Withdrawal,10000,Success
+T0258,2026-06-08,21:53,ATM102,Salem,Balance Inquiry,0,Success
+T0259,2026-06-12,22:30,ATM103,Chennai,Withdrawal,10000,Success
+T0260,2026-06-03,16:08,ATM103,Madurai,Withdrawal,1000,Success
+T0261,2026-06-05,08:44,ATM108,Salem,Mini Statement,0,Success
+T0262,2026-06-18,14:59,ATM110,Salem,Deposit,5000,Success
+T0263,2026-06-08,16:30,ATM103,Trichy,Balance Inquiry,0,Success
+T0264,2026-06-02,21:17,ATM105,Salem,Withdrawal,5000,Success
+T0265,2026-06-02,14:40,ATM108,Madurai,Withdrawal,500,Success
+T0266,2026-06-02,15:04,ATM102,Salem,Withdrawal,1500,Success
+T0267,2026-06-14,20:26,ATM101,Trichy,Withdrawal,2000,Success
+T0268,2026-06-19,18:16,ATM108,Salem,Deposit,1000,Success
+T0269,2026-06-04,18:23,ATM106,Madurai,Mini Statement,0,Success
+T0270,2026-06-12,19:33,ATM108,Trichy,Deposit,500,Success
+T0271,2026-06-13,06:12,ATM105,Trichy,Withdrawal,1000,Success
+T0272,2026-06-10,15:14,ATM101,Coimbatore,Balance Inquiry,0,Success
+T0273,2026-06-02,19:59,ATM105,Coimbatore,Withdrawal,3000,Success
+T0274,2026-06-17,19:15,ATM110,Chennai,Balance Inquiry,0,Failed
+T0275,2026-06-08,22:03,ATM106,Coimbatore,Withdrawal,5000,Success
+T0276,2026-06-16,06:17,ATM102,Coimbatore,Deposit,2000,Success
+T0277,2026-06-14,01:14,ATM103,Salem,Withdrawal,10000,Success
+T0278,2026-06-03,11:02,ATM101,Coimbatore,Deposit,2000,Success
+T0279,2026-06-08,08:40,ATM108,Chennai,Withdrawal,1000,Success
+T0280,2026-06-06,11:43,ATM105,Madurai,Mini Statement,0,Success
+T0281,2026-06-12,21:15,ATM109,Madurai,Balance Inquiry,0,Success
+T0282,2026-06-16,09:30,ATM110,Trichy,Withdrawal,10000,Success
+T0283,2026-06-04,20:14,ATM110,Chennai,Withdrawal,10000,Success
+T0284,2026-06-17,17:51,ATM104,Trichy,Withdrawal,2000,Success
+T0285,2026-06-15,05:27,ATM104,Salem,Withdrawal,5000,Success
+T0286,2026-06-06,18:37,ATM104,Coimbatore,Withdrawal,10000,Success
+T0287,2026-06-16,18:26,ATM108,Coimbatore,Mini Statement,0,Failed
+T0288,2026-06-19,00:57,ATM103,Chennai,Withdrawal,3000,Success
+T0289,2026-06-19,13:35,ATM108,Coimbatore,Deposit,10000,Success
+T0290,2026-06-13,22:51,ATM109,Madurai,Mini Statement,0,Success
+T0291,2026-06-07,19:40,ATM109,Chennai,Withdrawal,1000,Success
+T0292,2026-06-20,05:51,ATM106,Madurai,Withdrawal,1000,Success
+T0293,2026-06-10,18:35,ATM107,Madurai,Withdrawal,3000,Success
+T0294,2026-06-09,20:45,ATM106,Chennai,Withdrawal,1500,Success
+T0295,2026-06-04,11:08,ATM103,Trichy,Withdrawal,10000,Success
+T0296,2026-06-11,12:59,ATM104,Chennai,Deposit,500,Success
+T0297,2026-06-13,19:43,ATM107,Madurai,Mini Statement,0,Success
+T0298,2026-06-18,23:53,ATM104,Trichy,Withdrawal,1500,Success
+T0299,2026-06-15,20:57,ATM102,Trichy,Balance Inquiry,0,Success
+T0300,2026-06-14,21:53,ATM104,Chennai,Withdrawal,5000,Success
