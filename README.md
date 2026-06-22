@@ -28,4 +28,3 @@ This project analyzes ATM transaction data using Python.
 
 ## Author
 R. Ragavi
-Your Name
